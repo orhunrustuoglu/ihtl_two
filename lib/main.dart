@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:ihtl_two/main_screen.dart';
-import 'package:ihtl_two/providers/main_screen_provider.dart';
+
+import 'package:ihtl_two/ui/providers/main_screen_provider.dart';
+import 'package:ihtl_two/ui/screens/main_screen.dart';
 import 'package:provider/provider.dart';
 
 void main() {
